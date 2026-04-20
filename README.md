@@ -30,8 +30,13 @@ https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab1c%20q3
 lab1c q4-o/plink:
 ReverseIteration
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab1c%20q4.png
-lab1c q4-o/plink:
+lab1c q5-o/plink:
 SwapElements
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab1c%20q5.png
 lab2a-o/plink:
+StringOperationsDemo
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab2a.png
+lab2b-0/plink:
+StringPerformanceTest
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab2b.png
+
