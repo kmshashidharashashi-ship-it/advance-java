@@ -39,4 +39,7 @@ https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab2a.png
 lab2b-0/plink:
 StringPerformanceTest
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab2b.png
+lab3a-o/plink:
+stringoperations
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3a.png
 
