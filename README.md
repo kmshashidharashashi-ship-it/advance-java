@@ -33,3 +33,5 @@ https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab1c%20q4
 lab1c q4-o/plink:
 SwapElements
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab1c%20q5.png
+lab2a-o/plink:
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab2a.png
