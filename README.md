@@ -81,5 +81,15 @@ https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab4b.png
 lab4c -o/plink:
 swing
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab4c.png
+lab5a -o/plink:
 swing
-
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab5a.png
+lab5b -o/plink:
+swing
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab5b.png
+lab5c -o/plink:
+swing
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab5c.png
+lab5d -o/plink:
+swing
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab5d.png
