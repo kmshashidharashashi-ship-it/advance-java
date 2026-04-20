@@ -57,4 +57,19 @@ https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3c%20q4
 lab3b q5-o/plink:
 stringoperations
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3c%20q5.png
+lab3c q1-o/plink:
+stringoperations
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3b%20q1.png
+lab3c q2-o/plink:
+stringoperations
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3b%20q2.png
+lab3c q3-o/plink:
+stringoperations
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3b%20q3.png
+lab3c q4-o/plink:
+stringoperations
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3b%20q4.png
+lab3c q5-o/plink:
+stringoperations
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3b.png
 
