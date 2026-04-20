@@ -72,4 +72,14 @@ https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3b%20q4
 lab3c q5-o/plink:
 stringoperations
 https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab3b.png
+lab4a -o/plink:
+swing
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab4a.png
+lab4b -o/plink:
+swing
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab4b.png
+lab4c -o/plink:
+swing
+https://github.com/kmshashidharashashi-ship-it/advance-java/blob/main/lab4c.png
+swing
 
